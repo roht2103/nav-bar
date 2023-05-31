@@ -29,3 +29,7 @@ main{
     font-size: larger;
 }
 
+a{
+    text-decoration: none;
+    color: black;
+}
