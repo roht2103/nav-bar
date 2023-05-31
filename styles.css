@@ -27,6 +27,8 @@ main{
     min-height: 8vh;
     border-bottom: 1px solid black;
     font-size: larger;
+
+    background-image:url("colin-horn-fR9U2S31Exs-unsplash.jpg") ;
 }
 
 a{
